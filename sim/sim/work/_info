@@ -1,0 +1,293 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/LERU/Desktop/conv/conv_V12/sim
+vAdder
+Z0 !s110 1628059550
+!i10b 1
+!s100 RiAU]<H^fNRUoXGG_=B@32
+If_WBh8aB^DJ;e3LfJ0P012
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/code/Soc/mcu/sim/sim
+w1627976645
+8F:/code/Soc/mcu/src/ALU/Adder.v
+FF:/code/Soc/mcu/src/ALU/Adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1628059550.000000
+!s107 F:/code/Soc/mcu/src/ALU/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/code/Soc/mcu/src/ALU/Adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@adder
+vALU
+!s110 1628151447
+!i10b 1
+!s100 2BYz8EFkdViVg][4f1f:S0
+IZhD16D9Ijc3Se66[:PY>c0
+R1
+R2
+w1628151445
+8F:/code/Soc/mcu/src/ALU/ALU.v
+FF:/code/Soc/mcu/src/ALU/ALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1628151447.000000
+!s107 F:/code/Soc/mcu/src/ALU/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/code/Soc/mcu/src/ALU/ALU.v|
+!i113 1
+R5
+R6
+n@a@l@u
+vAvalonMem
+Z7 !s110 1628328762
+!i10b 1
+!s100 _P6UlFS1XSWnobnhd09f@3
+I>Ja]]WSNAI1nif@W[nL=k0
+R1
+R2
+w1628328760
+8F:/code/Soc/mcu/src/AvalonMem.v
+FF:/code/Soc/mcu/src/AvalonMem.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1628328762.000000
+!s107 F:/code/Soc/mcu/src/AvalonMem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/code/Soc/mcu/src/AvalonMem.v|
+!i113 1
+R5
+R6
+n@avalon@mem
+vCalculate
+!s110 1628239478
+!i10b 1
+!s100 __0XmEb2ETAKRoi@^YcNm0
+I1>bL>hM[hKH]@o5mGbDhe1
+R1
+R2
+w1628239474
+8F:/code/Soc/mcu/src/Calculate.v
+FF:/code/Soc/mcu/src/Calculate.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1628239478.000000
+!s107 F:/code/Soc/mcu/src/Calculate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/code/Soc/mcu/src/Calculate.v|
+!i113 1
+R5
+R6
+n@calculate
+vCmdDecoder
+!s110 1628334714
+!i10b 1
+!s100 m7@Zco_3`MU`jj=]aaFk_1
+IVJiE^daze;Gd<50G_`=AT3
+R1
+R2
+w1628334712
+8F:/code/Soc/mcu/src/CmdDecoder.v
+FF:/code/Soc/mcu/src/CmdDecoder.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1628334714.000000
+!s107 F:\code\Soc\mcu\src\.\..\cmd.v|F:/code/Soc/mcu/src/CmdDecoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/code/Soc/mcu/src/CmdDecoder.v|
+!i113 1
+R5
+R6
+n@cmd@decoder
+vGeneralReg
+!s110 1628151231
+!i10b 1
+!s100 lIK_MnSl_RdWY1dW^R<`e1
+IRfbK<9AK:gV1AW@@>PH5S0
+R1
+R2
+w1628151228
+8F:/code/Soc/mcu/src/GeneralReg.v
+FF:/code/Soc/mcu/src/GeneralReg.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1628151231.000000
+!s107 F:/code/Soc/mcu/src/GeneralReg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/code/Soc/mcu/src/GeneralReg.v|
+!i113 1
+R5
+R6
+n@general@reg
+vKernel
+!s110 1628334694
+!i10b 1
+!s100 Vo]T_b>WcVk9mZX@0iHO10
+Ih8GH4k6^7=fUHVS7053<R0
+R1
+R2
+w1628334689
+8F:/code/Soc/mcu/src/Kernel.v
+FF:/code/Soc/mcu/src/Kernel.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1628334694.000000
+!s107 F:\code\Soc\mcu\src\.\..\cmd.v|F:/code/Soc/mcu/src/Kernel.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/code/Soc/mcu/src/Kernel.v|
+!i113 1
+R5
+R6
+n@kernel
+vMultiplier
+R0
+!i10b 1
+!s100 `KMi@Hn6O`RAmF6EIDFMH0
+IgY>ddU68LGAebfO>7L9?03
+R1
+R2
+w1627976653
+8F:/code/Soc/mcu/src/ALU/Multiplier.v
+FF:/code/Soc/mcu/src/ALU/Multiplier.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/code/Soc/mcu/src/ALU/Multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/code/Soc/mcu/src/ALU/Multiplier.v|
+!i113 1
+R5
+R6
+n@multiplier
+vProcessor
+!s110 1628334948
+!i10b 1
+!s100 Bk4;SP86OZ>_AFNgz8PIM3
+I@9^f6`TRhh1fEegXW@T]l0
+R1
+R2
+w1628334945
+8F:/code/Soc/mcu/src/Processor.v
+FF:/code/Soc/mcu/src/Processor.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1628334948.000000
+!s107 F:\code\Soc\mcu\src\.\..\cmd.v|F:/code/Soc/mcu/src/Processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/code/Soc/mcu/src/Processor.v|
+!i113 1
+R5
+R6
+n@processor
+vprocessor_tb
+R7
+!i10b 1
+!s100 YHAY514]bo^4k`M5OWdem0
+IEMX8KNGdY^YIbI1SR@WMV0
+R1
+R2
+w1628328759
+8F:/code/Soc/mcu/sim/processor_tb.v
+FF:/code/Soc/mcu/sim/processor_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 F:/code/Soc/mcu/sim/processor_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/code/Soc/mcu/sim/processor_tb.v|
+!i113 1
+R5
+R6
+vshifter
+R0
+!i10b 1
+!s100 ?22ZSJA`YS^=5QWUlN[Hg1
+I2Sd?bJcm8VZKnkWT9QkzO2
+R1
+R2
+w1627976963
+8F:/code/Soc/mcu/src/ALU/Shifter.v
+FF:/code/Soc/mcu/src/ALU/Shifter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/code/Soc/mcu/src/ALU/Shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/code/Soc/mcu/src/ALU/Shifter.v|
+!i113 1
+R5
+R6
+vSubstracter
+R0
+!i10b 1
+!s100 l;k;W<f>2=2HH24HgQWMN3
+IJTEiG54?WZ6O0K:QXO`J32
+R1
+R2
+w1627976748
+8F:/code/Soc/mcu/src/ALU/Substracter.v
+FF:/code/Soc/mcu/src/ALU/Substracter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/code/Soc/mcu/src/ALU/Substracter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/code/Soc/mcu/src/ALU/Substracter.v|
+!i113 1
+R5
+R6
+n@substracter
+vtb
+!s110 1628320467
+!i10b 1
+!s100 [nD[Ag9mK1PYUl[ogGA>V2
+Ie5S9;=OX==1lkGG>DEk5m0
+R1
+R2
+w1628320465
+8F:/code/Soc/mcu/sim/tb.v
+FF:/code/Soc/mcu/sim/tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1628320467.000000
+!s107 F:\code\Soc\mcu\sim\.\..\cmd.v|F:/code/Soc/mcu/sim/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/code/Soc/mcu/sim/tb.v|
+!i113 1
+R5
+R6

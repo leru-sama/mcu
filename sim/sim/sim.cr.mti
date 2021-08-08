@@ -1,0 +1,95 @@
+F:/code/Soc/mcu/src/GeneralReg.v {1 {vlog -work work -stats=none F:/code/Soc/mcu/src/GeneralReg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module GeneralReg
+
+Top level modules:
+	GeneralReg
+
+} {} {}} F:/code/Soc/mcu/cmd.v {1 {vlog -work work -stats=none F:/code/Soc/mcu/cmd.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} F:/code/Soc/mcu/sim/processor_tb.v {1 {vlog -work work -stats=none F:/code/Soc/mcu/sim/processor_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module processor_tb
+
+Top level modules:
+	processor_tb
+
+} {} {}} F:/code/Soc/mcu/src/Calculate.v {1 {vlog -work work -stats=none F:/code/Soc/mcu/src/Calculate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Calculate
+
+Top level modules:
+	Calculate
+
+} {} {}} F:/code/Soc/mcu/src/ALU/Multiplier.v {1 {vlog -work work -stats=none F:/code/Soc/mcu/src/ALU/Multiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Multiplier
+
+Top level modules:
+	Multiplier
+
+} {} {}} F:/code/Soc/mcu/src/Kernel.v {1 {vlog -work work -stats=none F:/code/Soc/mcu/src/Kernel.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Kernel
+
+Top level modules:
+	Kernel
+
+} {} {}} F:/code/Soc/mcu/src/ALU/Adder.v {1 {vlog -work work -stats=none F:/code/Soc/mcu/src/ALU/Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} F:/code/Soc/mcu/src/ALU/Shifter.v {1 {vlog -work work -stats=none F:/code/Soc/mcu/src/ALU/Shifter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} F:/code/Soc/mcu/sim/tb.v {1 {vlog -work work -stats=none F:/code/Soc/mcu/sim/tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} F:/code/Soc/mcu/src/Processor.v {1 {vlog -work work -stats=none F:/code/Soc/mcu/src/Processor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Processor
+
+Top level modules:
+	Processor
+
+} {} {}} F:/code/Soc/mcu/src/AvalonMem.v {1 {vlog -work work -stats=none F:/code/Soc/mcu/src/AvalonMem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module AvalonMem
+
+Top level modules:
+	AvalonMem
+
+} {} {}} F:/code/Soc/mcu/src/CmdDecoder.v {1 {vlog -work work -stats=none F:/code/Soc/mcu/src/CmdDecoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CmdDecoder
+
+Top level modules:
+	CmdDecoder
+
+} {} {}} F:/code/Soc/mcu/src/ALU/Substracter.v {1 {vlog -work work -stats=none F:/code/Soc/mcu/src/ALU/Substracter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Substracter
+
+Top level modules:
+	Substracter
+
+} {} {}} F:/code/Soc/mcu/src/ALU/ALU.v {1 {vlog -work work -stats=none F:/code/Soc/mcu/src/ALU/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}

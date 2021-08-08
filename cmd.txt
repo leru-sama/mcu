@@ -1,0 +1,5 @@
+already  have  passed  cmds:
+    ADD Rd  Rn Imm
+    LDR Rd [Rn]       // not support LDR Rd Rn
+    STR Rd [Rn]
+    
